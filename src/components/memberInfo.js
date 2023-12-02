@@ -1,0 +1,55 @@
+const staffInformation = [
+  {
+    id: 1,
+    img: '/images/1.jpeg',
+    name: 'Ethan Harper',
+    position: 'Software Developer',
+    phone: '+1 555-1111',
+    email: 'ethan@example.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpg',
+    name: 'Olivia Bennett',
+    position: 'Product Manager',
+    phone: '+1 555-2222',
+    email: 'olivia@example.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Mason Parker',
+    position: 'UX/UI Designer',
+    phone: '+1 555-3333',
+    email: 'mason@example.com',
+    website: 'masonparker.design',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpg',
+    name: 'Aria Collins',
+    position: 'Marketing Coordinator',
+    phone: '+1 555-4444',
+    email: 'aria@example.com',
+  },
+  {
+    id: 5,
+    img: '/images/05.jpg',
+    name: 'Liam Phillips',
+    position: 'CEO',
+    phone: '+1 555-5555',
+    email: 'liam@example.com',
+    website: 'liamphillips.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpg',
+    name: 'Ava Nelson',
+    position: 'Frontend Developer',
+    phone: '+1 555-6666',
+    email: 'ava@example.com',
+    website: 'avanelson.dev',
+  },
+];
+
+export default staffInformation;
